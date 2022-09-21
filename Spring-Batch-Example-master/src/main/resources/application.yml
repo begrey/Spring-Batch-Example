@@ -1,0 +1,15 @@
+spring:
+  batch:
+    jdbc:
+      initialize-schema: never
+  batch.job.enabled: false # CommandLineRunner 설정 해제
+  datasource:
+    driver-class-name: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:ORCL
+    username: #아이디
+    password: #비번
+  jpa:
+    show-sql: true
+    database: oracle
+      
+      

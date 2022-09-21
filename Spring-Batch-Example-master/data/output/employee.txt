@@ -1,0 +1,21 @@
+1,Kim#,m,hr
+2,Janny#,f,dev
+3,Billie Eilish#,f,dev
+4,Taylor Swift#,m,sales
+5,Jack#,m,sales
+6,홍길동#,m,dev
+7,강감찬#,m,dev
+1,Kim#,m,hr
+2,Janny#,f,dev
+3,Billie Eilish#,f,dev
+4,Taylor Swift#,m,sales
+5,Jack#,m,sales
+6,홍길동#,m,dev
+7,강감찬#,m,dev
+1,Kim#,m,hr
+2,Janny#,f,dev
+3,Billie Eilish#,f,dev
+4,Taylor Swift#,m,sales
+5,Jack#,m,sales
+6,홍길동#,m,dev
+7,강감찬#,m,dev
